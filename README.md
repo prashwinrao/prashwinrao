@@ -4,7 +4,7 @@
 <h3 align="center">A passionate learner who keeps engrossed in learning and exploring new technologies.</h3>
 
 
-![](https://komarev.com/ghpvc/?username=prashwinrao&base=56000)
+![](https://komarev.com/ghpvc/?username=prashwinrao&base=2000)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
