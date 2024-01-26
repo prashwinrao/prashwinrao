@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/prashwinrao)
 
-<h1 align="center">Hey there 👋, this is  pr ashwin rao.😀</h1>
+<h1 align="center">Hey there 👋, This is  Ashwin.😀</h1>
 <h3 align="center">A passionate learner who keeps engrossed in learning and exploring new technologies.</h3>
 
 
